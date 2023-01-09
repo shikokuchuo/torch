@@ -40,6 +40,9 @@
     <loc>https://torch.mlverse.org/docs/dev/articles/loading-data.html</loc>
   </url>
   <url>
+    <loc>https://torch.mlverse.org/docs/dev/articles/memory-management.html</loc>
+  </url>
+  <url>
     <loc>https://torch.mlverse.org/docs/dev/articles/python-to-r.html</loc>
   </url>
   <url>
@@ -103,6 +106,9 @@
     <loc>https://torch.mlverse.org/docs/dev/reference/backends_mkldnn_is_available.html</loc>
   </url>
   <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/backends_mps_is_available.html</loc>
+  </url>
+  <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/backends_openmp_is_available.html</loc>
   </url>
   <url>
@@ -121,6 +127,9 @@
     <loc>https://torch.mlverse.org/docs/dev/reference/cuda_device_count.html</loc>
   </url>
   <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/cuda_empty_cache.html</loc>
+  </url>
+  <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/cuda_get_device_capability.html</loc>
   </url>
   <url>
@@ -131,6 +140,9 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/cuda_runtime_version.html</loc>
+  </url>
+  <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/cuda_synchronize.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/dataloader.html</loc>
@@ -179,9 +191,6 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/enumerate.html</loc>
-  </url>
-  <url>
-    <loc>https://torch.mlverse.org/docs/dev/reference/get_install_libs_url.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/index.html</loc>
@@ -340,6 +349,9 @@
     <loc>https://torch.mlverse.org/docs/dev/reference/lr_one_cycle.html</loc>
   </url>
   <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/lr_reduce_on_plateau.html</loc>
+  </url>
+  <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/lr_scheduler.html</loc>
   </url>
   <url>
@@ -443,6 +455,9 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/nn_embedding.html</loc>
+  </url>
+  <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/nn_embedding_bag.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/nn_flatten.html</loc>
@@ -614,6 +629,9 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/nn_prelu.html</loc>
+  </url>
+  <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/nn_prune_head.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/nn_relu.html</loc>
@@ -1027,6 +1045,9 @@
     <loc>https://torch.mlverse.org/docs/dev/reference/reexports.html</loc>
   </url>
   <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/sampler.html</loc>
+  </url>
+  <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/slc.html</loc>
   </url>
   <url>
@@ -1381,6 +1402,9 @@
     <loc>https://torch.mlverse.org/docs/dev/reference/torch_fft_fft.html</loc>
   </url>
   <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/torch_fft_fftfreq.html</loc>
+  </url>
+  <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/torch_fft_ifft.html</loc>
   </url>
   <url>
@@ -1537,6 +1561,9 @@
     <loc>https://torch.mlverse.org/docs/dev/reference/torch_kaiser_window.html</loc>
   </url>
   <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/torch_kron.html</loc>
+  </url>
+  <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/torch_kthvalue.html</loc>
   </url>
   <url>
@@ -1622,6 +1649,9 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/torch_lu_solve.html</loc>
+  </url>
+  <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/torch_lu_unpack.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/torch_manual_seed.html</loc>
@@ -1867,6 +1897,9 @@
     <loc>https://torch.mlverse.org/docs/dev/reference/torch_selu_.html</loc>
   </url>
   <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/torch_serialize.html</loc>
+  </url>
+  <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/torch_sgn.html</loc>
   </url>
   <url>
@@ -1886,9 +1919,6 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/torch_slogdet.html</loc>
-  </url>
-  <url>
-    <loc>https://torch.mlverse.org/docs/dev/reference/torch_solve.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/torch_sort.html</loc>
