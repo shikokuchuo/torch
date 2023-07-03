@@ -10,6 +10,9 @@
     <loc>https://torch.mlverse.org/docs/dev/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://torch.mlverse.org/docs/dev/articles/amp.html</loc>
+  </url>
+  <url>
     <loc>https://torch.mlverse.org/docs/dev/articles/distributions.html</loc>
   </url>
   <url>
@@ -41,6 +44,9 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/articles/memory-management.html</loc>
+  </url>
+  <url>
+    <loc>https://torch.mlverse.org/docs/dev/articles/modifying-source-code.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/articles/python-to-r.html</loc>
@@ -119,6 +125,9 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/contrib_sort_vertices.html</loc>
+  </url>
+  <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/cuda_amp_grad_scaler.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/cuda_current_device.html</loc>
@@ -241,6 +250,9 @@
     <loc>https://torch.mlverse.org/docs/dev/reference/jit_load.html</loc>
   </url>
   <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/jit_ops.html</loc>
+  </url>
+  <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/jit_save.html</loc>
   </url>
   <url>
@@ -338,6 +350,12 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/load_state_dict.html</loc>
+  </url>
+  <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/local_autocast.html</loc>
+  </url>
+  <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/local_device.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/lr_lambda.html</loc>
@@ -598,6 +616,9 @@
     <loc>https://torch.mlverse.org/docs/dev/reference/nn_module.html</loc>
   </url>
   <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/nn_module_dict.html</loc>
+  </url>
+  <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/nn_module_list.html</loc>
   </url>
   <url>
@@ -653,6 +674,9 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/nn_sigmoid.html</loc>
+  </url>
+  <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/nn_silu.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/nn_smooth_l1_loss.html</loc>
@@ -716,6 +740,9 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/nn_utils_rnn_pad_sequence.html</loc>
+  </url>
+  <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/nn_utils_weight_norm.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/nnf_adaptive_avg_pool1d.html</loc>
@@ -973,6 +1000,9 @@
     <loc>https://torch.mlverse.org/docs/dev/reference/nnf_sigmoid.html</loc>
   </url>
   <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/nnf_silu.html</loc>
+  </url>
+  <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/nnf_smooth_l1_loss.html</loc>
   </url>
   <url>
@@ -1016,6 +1046,9 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/optim_adam.html</loc>
+  </url>
+  <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/optim_adamw.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/optim_asgd.html</loc>
@@ -1466,6 +1499,9 @@
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/torch_ger.html</loc>
+  </url>
+  <url>
+    <loc>https://torch.mlverse.org/docs/dev/reference/torch_get_rng_state.html</loc>
   </url>
   <url>
     <loc>https://torch.mlverse.org/docs/dev/reference/torch_greater.html</loc>
